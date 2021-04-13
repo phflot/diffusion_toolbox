@@ -1,6 +1,6 @@
 # Toolbox for nonlinear, anisotropic diffusion on the GPU
 
-Fast, fully vectorized MATLAB implementation of non-linear, anisotropic diffusion with gpuarray and RGB image support. Implemented diffusion types are edge enhancing and coherence enhancing diffusion (Weickert, 1999) and Perona-Malik non-linear isotropic diffusion with different diffusivities. 
+Fast and fully vectorized MATLAB implementation of non-linear, anisotropic diffusion with gpuarray and RGB image support. Implemented diffusion types are edge enhancing and coherence enhancing diffusion (Weickert, 1999) as well as Perona-Malik non-linear isotropic diffusion with different diffusivities. 
 
 ![Fig1](img/bg.jpg)
 
